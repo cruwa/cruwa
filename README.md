@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @cruwa
+- 👀 I’m interested in coding and graphic design xD
+- 🌱 I’m currently learning how to code in phyton and javascript, and how to design websites with HTML  and CSS
+- 💞️ I’m looking to collaborate on a website project
+- 📫 You can reach me by g-mail (imraintt@gmail.com), or by instagram (mr.cruwa)
